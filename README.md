@@ -1,2 +1,2 @@
-# CrackingTheCodingInterview
-Coding Problem Solutions
+# Algorithms
+Repo for algorithmic problems.
